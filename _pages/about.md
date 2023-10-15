@@ -74,7 +74,7 @@ Internships
 ---
 permalink: /
 title: "Awards&Services"
-excerpt: "pulications"
+excerpt: "awards"
 author_profile: true
 redirect_from: 
   - /about/
