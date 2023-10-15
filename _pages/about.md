@@ -34,7 +34,7 @@ Selected Publications
 
 |Replace Sort with Arrangement: A Contextual Set-to-Arrangement Framework for Learning-to-Rank|
 |:------|
-|Jiarui Jin*, **Xianyu Chen***, Weinan Zhang, Mengyue Yang, Yang Wang, Yali Du, Yong Yu, Jun Wang|
+|Jiarui Jin\*, **Xianyu Chen**\*, Weinan Zhang, Mengyue Yang, Yang Wang, Yali Du, Yong Yu, Jun Wang|
 |CIKM2023 (Oral) [Paper.](https://arxiv.org/abs/2308.02860) [Code.](https://github.com/Jinjiarui/STARank)|
 
 |Set-to-Sequence Ranking-based Concept-aware Learning Path Recommendation|
@@ -49,12 +49,12 @@ Selected Publications
 
 |Learn over Past, Evolve for Future: Search-based Time-aware Recommendation with Sequential Behavior Feedback Data|
 |:------|
-|Jiarui Jin*, **Xianyu Chen***, Weinan Zhang, Junjie Huang, Ziming Feng, Yong Yu|
+|Jiarui Jin\*, **Xianyu Chen**\*, Weinan Zhang, Junjie Huang, Ziming Feng, Yong Yu|
 |WWW2022 (Oral) [Paper.](https://arxiv.org/abs/2202.03097) [Code.](https://github.com/Jinjiarui/STARec) Real-world Deployment.|
 
 |Who to Watch Next: Two-side Interactive Networks for Live Broadcast Recommendation|
 |:------|
-|Jiarui Jin*, **Xianyu Chen***, Yuanbo Chen*, Weinan Zhang, Renting Rui, Zaifan Jiang, Zhewen Su, Yong Yu|
+|Jiarui Jin\*, **Xianyu Chen**\*, Yuanbo Chen*, Weinan Zhang, Renting Rui, Zaifan Jiang, Zhewen Su, Yong Yu|
 |WWW2022 (Oral) [Paper.](https://arxiv.org/abs/2202.04333) [Code.](https://github.com/Jinjiarui/TWINS) Real-world Deployment.|
 
 
