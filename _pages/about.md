@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "experience"
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,10 +23,15 @@ Recent News
 - [2021.12] One paper is accepted at AAAI 2022
 - [2020.04] One paper is accepted at IJCAI 2021
 
-
-Selected Publications
-======
-
+---
+permalink: /
+title: "Selected Publications"
+excerpt: "pulications"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 |Lending Interaction Wings to Recommender Systems with Conversational Agents|
 |:------|
 |Jiarui Jin, **Xianyu Chen**, Fanghua Ye, Mengyue Yang, Yue Feng, Weinan Zhang, Yong Yu, Jun Wang|
@@ -65,8 +70,16 @@ Internships
   - Shenzhen, China.  Jul. 2023 - Now
   - Focus on user behavior modeling.
 
-Awards&Services
-=====
+    
+---
+permalink: /
+title: "Awards&Services"
+excerpt: "pulications"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 - Reviewer of WSDM, CIKM
 - SJTU Huawei Scholarship (top 10%), 2021
 - SJTU Zhiyuan Honors Scholarship (top 5%), 2018-2020
