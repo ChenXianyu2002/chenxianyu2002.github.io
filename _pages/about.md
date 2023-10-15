@@ -29,32 +29,32 @@ Selected Publications
 
 |Lending Interaction Wings to Recommender Systems with Conversational Agents|
 |:------|
-|Jiarui Jin, __**Xianyu Chen**__, Fanghua Ye, Mengyue Yang, Yue Feng, Weinan Zhang, Yong Yu, Jun Wang|
+|Jiarui Jin, **Xianyu Chen**, Fanghua Ye, Mengyue Yang, Yue Feng, Weinan Zhang, Yong Yu, Jun Wang|
 |NeurIPS2023 (Poster) [Paper.](https://arxiv.org/abs/2310.04230) [Code.](https://github.com/CORE-Labet/CORE)|
 
 |Replace Sort with Arrangement: A Contextual Set-to-Arrangement Framework for Learning-to-Rank|
 |:------|
-|Jiarui Jin*, __**Xianyu Chen**__*, Weinan Zhang, Mengyue Yang, Yang Wang, Yali Du, Yong Yu, Jun Wang|
+|Jiarui Jin*, **Xianyu Chen***, Weinan Zhang, Mengyue Yang, Yang Wang, Yali Du, Yong Yu, Jun Wang|
 |CIKM2023 (Oral) [Paper.](https://arxiv.org/abs/2308.02860) [Code.](https://github.com/Jinjiarui/STARank)|
 
 |Set-to-Sequence Ranking-based Concept-aware Learning Path Recommendation|
 |:------|
-|__**Xianyu Chen**__, Jian Shen, Wei Xia, Jiarui Jin, Yakun Song, Weinan Zhang, Weiwen Liu, Menghui Zhu, Ruiming Tang, Kai Dong, Dingyin Xia, Yong Yu|
+|**Xianyu Chen**, Jian Shen, Wei Xia, Jiarui Jin, Yakun Song, Weinan Zhang, Weiwen Liu, Menghui Zhu, Ruiming Tang, Kai Dong, Dingyin Xia, Yong Yu|
 |AAAI2023 (Oral) [Paper.](https://arxiv.org/abs/2306.04234) [Code.](https://gitee.com/mindspore/models/tree/master/research/recommend/SRC) Real-world Deployment.|
 
 |Multi-Scale User Behavior Network for Entire Space Multi-Task Learning|
 |:------|
-|Jiarui Jin, __**Xianyu Chen**__, Weinan Zhang, Yuanbo Chen, Zaifan Jiang, Zekun Zhu, Zhewen Su, Yong Yu|
+|Jiarui Jin, **Xianyu Chen**, Weinan Zhang, Yuanbo Chen, Zaifan Jiang, Zekun Zhu, Zhewen Su, Yong Yu|
 |CIKM2022 (Oral) [Paper.](https://arxiv.org/abs/2208.01889) [Code.](https://github.com/Jinjiarui/HEROES)|
 
 |Learn over Past, Evolve for Future: Search-based Time-aware Recommendation with Sequential Behavior Feedback Data|
 |:------|
-|Jiarui Jin*, __**Xianyu Chen**__*, Weinan Zhang, Junjie Huang, Ziming Feng, Yong Yu|
+|Jiarui Jin*, **Xianyu Chen***, Weinan Zhang, Junjie Huang, Ziming Feng, Yong Yu|
 |WWW2022 (Oral) [Paper.](https://arxiv.org/abs/2202.03097) [Code.](https://github.com/Jinjiarui/STARec) Real-world Deployment.|
 
 |Who to Watch Next: Two-side Interactive Networks for Live Broadcast Recommendation|
 |:------|
-|Jiarui Jin*, __**Xianyu Chen**__*, Yuanbo Chen*, Weinan Zhang, Renting Rui, Zaifan Jiang, Zhewen Su, Yong Yu|
+|Jiarui Jin*, **Xianyu Chen***, Yuanbo Chen*, Weinan Zhang, Renting Rui, Zaifan Jiang, Zhewen Su, Yong Yu|
 |WWW2022 (Oral) [Paper.](https://arxiv.org/abs/2202.04333) [Code.](https://github.com/Jinjiarui/TWINS) Real-world Deployment.|
 
 
@@ -64,3 +64,9 @@ Internships
   - Research Intern, Search & Recommendation Group, supervised by Ruiming Tang.
   - Shenzhen, China.  Jul. 2023 - Now
   - Focus on user behavior modeling.
+
+Awards&Services
+=====
+- Reviewer of WSDM, CIKM
+- SJTU Huawei Scholarship (top 10%), 2021
+- SJTU Zhiyuan Honors Scholarship (top 5%), 2018-2020
