@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Experience"
-    url: #about-me
+    URL: /#about-me
     
   - title: "Publications"
-    url: #selected-publications
+    url: /#selected-publications
     
   - title: "Internships"
-    url: #internships
+    url: /#internships
 
   - title: "Awards"
-    url: #awards&services
+    url: /#awards&services
