@@ -23,15 +23,8 @@ Recent News
 - [2021.12] One paper is accepted at AAAI 2022
 - [2020.04] One paper is accepted at IJCAI 2021
 
----
-permalink: /
-title: "Selected Publications"
-excerpt: "pulications"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+Selected Publications
+=====
 |Lending Interaction Wings to Recommender Systems with Conversational Agents|
 |:------|
 |Jiarui Jin, **Xianyu Chen**, Fanghua Ye, Mengyue Yang, Yue Feng, Weinan Zhang, Yong Yu, Jun Wang|
@@ -65,21 +58,16 @@ redirect_from:
 
 Internships
 =====
+
 - Huawei Noah’s Ark Lab
   - Research Intern, Search & Recommendation Group, supervised by Ruiming Tang.
   - Shenzhen, China.  Jul. 2023 - Now
   - Focus on user behavior modeling.
 
     
----
-permalink: /
-title: "Awards&Services"
-excerpt: "awards"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+Awards And Services
+=====
+
 - Reviewer of WSDM, CIKM
 - SJTU Huawei Scholarship (top 10%), 2021
 - SJTU Zhiyuan Honors Scholarship (top 5%), 2018-2020
