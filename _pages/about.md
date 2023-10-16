@@ -12,16 +12,19 @@ Since September 2021, I have been studying for a Master Degree in [Apex Data and
 My academic background and industry internships are focused on information retrieval and conversational intelligence. During the postgraduate period, I worked as an intern in [Huawei Noah’s Ark Lab](http://www.noahlab.com.hk/) and had close cooperation with [China Merchants Bank](http://www.cmbchina.com/), [Taobao Live](https://taolive.taobao.com/) and [Alimama](https://www.alimama.com/index.htm). I am on Job Market now for full-time industrial position.
 
 
-<summary>Recent News</summary>
-<div style="max-height: 150px; overflow-y: scroll;">
-  - [2023.09] One paper is accepted at NeurIPS 2023
-  - [2023.08] Two papers are accepted at CIKM 2023
-  - [2023.04] One paper is accepted at KDD 2023
-  - [2022.11] One paper is accepted at AAAI 2023
-  - [2022.08] One paper is accepted at CIKM 2022
-  - [2022.01] Two papers are accepted at WWW 2022
-  - [2021.12] One paper is accepted at AAAI 2022
-  - [2020.04] One paper is accepted at IJCAI 2021
+Recent News
+=====
+<div style="height: 150px; overflow-y: scroll;">
+    <ul>
+        <li>[2023.09] One paper is accepted at NeurIPS 2023</li>
+        <li>[2023.08] Two papers are accepted at CIKM 2023</li>
+        <li>[2023.04] One paper is accepted at KDD 2023</li>
+        <li>[2022.11] One paper is accepted at AAAI 2023</li>
+        <li>[2022.08] One paper is accepted at CIKM 2022</li>
+        <li>[2022.01] Two papers are accepted at WWW 2022</li>
+        <li>[2021.12] One paper is accepted at AAAI 2022</li>
+        <li>[2020.04] One paper is accepted at IJCAI 2021</li>
+    </ul>
 </div>
 
 
